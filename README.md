@@ -1,2 +1,2 @@
-# fortran-prog
+# Fortran
 Fortran programming
